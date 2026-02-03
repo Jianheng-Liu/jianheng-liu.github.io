@@ -21,6 +21,10 @@
     </div>
   </div>
 
+</div>
+<br>
+
+<div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Advancing Autonomous VLM Agents via Variational Subgoal-Conditioned Reinforcement Learning</div>
     <div class="author">Qingyuan Wu*, <strong>Jianheng Liu*<strong>, Jianye Hao, Jun Wang, Kun Shao</div>
@@ -31,7 +35,10 @@
       <a href="https://github.com/ai-agents-2030/VSC_RL" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
+</div>
+<br>
 
+<div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">DistRL: An Asynchronous Distributed Reinforcement Learning Framework for On-device Control Agents</div>
     <div class="author">Taiyi Wang, Zhihao Wu, <strong>Jianheng Liu<strong>, Jianye Hao, Jun Wang, Kun Shao</div>
@@ -42,7 +49,10 @@
       <a href="https://ai-agents-2030.github.io/DistRL/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
+</div>
+<br>
 
+<div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">DreamerNav: Learning-Based Autonomous Navigation in Dynamic Indoor Environments Using World Models</div>
     <div class="author">Stuart Shanks*, Jonathan Embley-Riches*, <strong>Jianheng Liu*<strong>, Andromachi Maria Delfaki, Carlo Ciliberto, Dimitrios Kanoulas</div>
@@ -52,6 +62,11 @@
     </div>
   </div>
 
+</div>
+<br>
+
+
+<div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">OCMDP: Observation-Constrained Markov Decision Process</div>
     <div class="author">Taiyi Wang*, <strong>Jianheng Liu*<strong>, Bryan Lee, Zhihao Wu, Yu Wu</div>
@@ -61,6 +76,11 @@
     </div>
   </div>
 
+</div>
+<br>
+
+
+<div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Detect an Object At Once without Fine-tuning</div>
     <div class="author">Junyu Hao*, <strong>Jianheng Liu*<strong>, Yongjia Zhao, Zuofan Chen, Qi Sun, Jinlong Chen, Jianguo Wei, Minghao Yang</div>
@@ -73,6 +93,8 @@
 
 </div>
 <br>
+
+
 </li>
 <br>
 
