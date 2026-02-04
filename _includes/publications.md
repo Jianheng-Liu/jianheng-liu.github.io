@@ -12,7 +12,7 @@
   </div> -->
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Beyond Syntax: Action Semantics Learning for App Agents</div>
-    <div class="author">Bohan Tang, Dezhao Luo, <strong>Jianheng Liu</strong>, Jingxuan Chen, Shaogang Gong, Jianye Hao, Jun Wang, Kun Shao</div>
+    <div class="author">Bohan Tang*, Dezhao Luo*, <strong>Jianheng Liu</strong>, Jingxuan Chen, Shaogang Gong, Jianye Hao, Jun Wang, Kun Shao</div>
     <div class="periodical"><em><strong>arXiv preprint</strong>, 2025</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2506.17697" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
@@ -39,7 +39,7 @@
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">DistRL: An Asynchronous Distributed Reinforcement Learning Framework for On-device Control Agents</div>
-    <div class="author">Taiyi Wang, Zhihao Wu, <strong>Jianheng Liu</strong>, Jianye Hao, Jun Wang, Kun Shao</div>
+    <div class="author">Taiyi Wang*, Zhihao Wu*, <strong>Jianheng Liu</strong>, Jianye Hao, Jun Wang, Kun Shao</div>
     <div class="periodical"><em><strong>International Conference on Learning Representations (ICLR)</strong>, 2025</em></div>
     <div class="links">
       <a href="https://ai-agents-2030.github.io/DistRL/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
